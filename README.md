@@ -12,6 +12,6 @@ Mainly what was used was the following:
 - For the Backend: PHP, MySQL database, and phpMyAdmin using XAMPP server for
   table management
 
-The project is big so it is cannot be uploaded on GitHub, here is the project link:
+The project is big so it cannot be uploaded on GitHub, here is the project link:
 
 https://drive.google.com/file/d/1_uFkON6-DRNH0AbyXe6DB3bLUOTHzxBH/view?usp=sharing
