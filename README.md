@@ -14,6 +14,3 @@ Mainly what was used was the following:
 - For the Backend: PHP, MySQL database, and phpMyAdmin using XAMPP server for
   table management
 
-Here is the project link:
-
-https://drive.google.com/file/d/1qnnVnf5-LO0W2DowXj4jcoqq-QrJkoTi/view?usp=sharing
